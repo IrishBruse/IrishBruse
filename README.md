@@ -7,7 +7,7 @@
 
 ------
   
-<p> Hi I'm Ethan an 19 year old studying <a href="https://www.gmit.ie/computer-science-and-applied-physics/bachelor-science-honours-software-development">Software Development</a> in GMIT. I am self taught in programming before GMIT and have been programming for many years as a hobby making games, websites, software and mobile apps. I love Open source software and try to contribute to it where I can. Currently I maintain a library for importing and rendering levels made with an open source game level editor it is hosted on my <a href="https://github.com/IrishBruse">Github profile</a>. </p>
+<p> Hi I'm Ethan a student studying <a href="https://www.gmit.ie/computer-science-and-applied-physics/bachelor-science-honours-software-development">Software Development</a> in GMIT. I am self taught in programming before GMIT and have been programming for many years as a hobby making games, websites, software and mobile apps. I love Open source software and try to contribute to it where I can. Currently I maintain a library for importing and rendering levels made with an open source game level editor it is hosted on my <a href="https://github.com/IrishBruse">Github profile</a>. </p>
   
 ------
 
