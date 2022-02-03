@@ -191,11 +191,13 @@
     src="https://github-readme-stats.vercel.app/api?username=irishbruse&show_icons=true&locale=en&hide_rank=true&theme=dark&bg_color=00000000&text_color=ffffff&hide_border=true"
     alt="irishbruse"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=irishbruse&"
     alt="irishbruse"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=irishbruse&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=00000000&text_color=ffffff&hide_border=true"
