@@ -17,6 +17,23 @@
   </p>
 </h4>
 
+<div align="center">
+    <h1>
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=irishbruse&show_icons=true&locale=en&hide_rank=true&bg_color=00000000&theme=onedark&hide_border=true"
+        alt="irishbruse"
+      />
+      &nbsp;&nbsp;
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=irishbruse&show_icons=true&locale=en&layout=compact&theme=onedark&bg_color=00000000&hide_border=true"
+        alt="irishbruse"
+      />
+    </h1>
+  </div>
+  
+
 <h2 align="center">Languages</h2>
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
@@ -185,18 +202,3 @@
   </a>
 </p>
 
-<div align="center">
-  <h1>
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=irishbruse&show_icons=true&locale=en&hide_rank=true&bg_color=00000000&theme=onedark&hide_border=true"
-      alt="irishbruse"
-    />
-    &nbsp;&nbsp;
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=irishbruse&show_icons=true&locale=en&layout=compact&theme=onedark&bg_color=00000000&hide_border=true"
-      alt="irishbruse"
-    />
-  </h1>
-</div>
