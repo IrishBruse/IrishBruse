@@ -6,7 +6,7 @@
     I'm currently maintaining
     <a href="https://github.com/IrishBruse/LDtkMonogame">LDtkMonogame</a>
   </p>
-  <p>I'm currently learning <b> MySQL, Wails, Angular</b></p>
+  <p>I'm currently learning <b> MySQL, Wails and Angular</b></p>
   <p>
     I'm currently interested in
     <a href="https://github.com/wailsapp/wails">Wails</a>
