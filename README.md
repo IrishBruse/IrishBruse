@@ -27,7 +27,7 @@
       &nbsp;&nbsp;
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=irishbruse&show_icons=true&locale=en&layout=compact&theme=onedark&bg_color=00000000&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=irishbruse&show_icons=true&layout=compact&locale=en&layout=compact&theme=onedark&bg_color=00000000&hide_border=true"
         alt="irishbruse"
       />
     </h1>
