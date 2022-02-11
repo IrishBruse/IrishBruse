@@ -200,5 +200,13 @@
       height="40"
     />
   </a>
+    <a href="https://wails.io/docs/about/">
+    <img
+      src="https://github.com/wailsapp/wails/blob/master/logo.png?raw=true"
+      alt="ionic"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
