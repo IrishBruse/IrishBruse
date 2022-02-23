@@ -202,8 +202,8 @@
   </a>
     <a href="https://wails.io/docs/about/">
     <img
-      src="https://github.com/wailsapp/wails/blob/master/logo.png?raw=true"
-      alt="ionic"
+      src="https://raw.githubusercontent.com/wailsapp/wails/master/assets/images/logo_cropped.png"
+      alt="wails"
       width="40"
       height="40"
     />
