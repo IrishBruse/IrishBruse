@@ -1,29 +1,32 @@
 <h1 align="center">Hello, I'm Ethan</h1>
 <h3 align="center">A software developer from Ireland studying in GMIT.</h3>
-<br/>
+<br />
 <h4 align="center">The images below are clickable</h4>
-<br/>
 
-<h3 align="center">Portfolio Website</h3>
-<p align="center">
-    <a href="https://ethanconneely.com/home">
-        <img src="https://raw.githubusercontent.com/IrishBruse/Images/master/Avatar/LogoIcon.png?token=GHSAT0AAAAAABTYLA4JU74BJ73YHVFUAM2QYTQETLA" title="ethanconneely.com/home" alt="LDtkMonogame" width="40" height="40" />
-    </a>
-</p>
-
-<h3 align="center">ATU Projects and Labs Organization</h3>
-<p align="center">
-    <a href="https://github.com/EthanConneely">
-        <img src="https://avatars.githubusercontent.com/u/81045973?s=200&v=4" title="Ethan Conneely" alt="LDtkMonogame" width="40" height="40" />
-    </a>
-</p>
-
-<h3 align="center">I'm currently maintaining</h3>
-<p align="center">
-    <a href="https://github.com/IrishBruse/LDtkMonogame">
-        <img src="https://raw.githubusercontent.com/IrishBruse/LDtkMonogame/main/Icon.png" title="LDtkMonogame" alt="LDtkMonogame" width="40" height="40" />
-    </a>
-</p>
+<table align="center">
+    <tr>
+        <th>Current Project</th>
+        <th>ATU Projects</th>
+        <th>Portfolio Website</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/IrishBruse/LDtkMonogame">
+                <img src="https://raw.githubusercontent.com/IrishBruse/LDtkMonogame/main/Icon.png" title="LDtkMonogame" alt="LDtkMonogame" width="40" height="40" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/EthanConneely">
+                <img src="https://avatars.githubusercontent.com/u/81045973?s=200&v=4" title="Ethan Conneely" alt="LDtkMonogame" width="40" height="40" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://ethanconneely.com/home">
+                <img src="https://raw.githubusercontent.com/IrishBruse/IrishBruse.github.io/main/public/favicon.ico" title="ethanconneely.com/home" alt="LDtkMonogame" width="40" height="40" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 <h2 align="center">Languages</h2>
 <p align="center">
