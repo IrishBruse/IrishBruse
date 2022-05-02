@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ethan</h1>
-<h3 align="center">A software developer from Ireland studying in GMIT.</h3>
+<h3 align="center">A software developer from Ireland studying in ATU.</h3>
 
 <h4 align="center">The images below are clickable</h4>
 
