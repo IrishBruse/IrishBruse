@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Ethan</h1>
 <h3 align="center">A software developer from Ireland studying in GMIT.</h3>
-<br />
+
 <h4 align="center">The images below are clickable</h4>
 
 <table align="center">
