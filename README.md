@@ -84,7 +84,7 @@
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40" />
     </a>
     <a href="https://code.visualstudio.com/">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexternal-preview.redd.it%2FWSuAcyz1u8MoF8cokXspkmOIn8oWXaE8JH-SGXbUUW0.png%3Fauto%3Dwebp%26s%3Da6abc62ecb4a08f2bf2f287b79c9bd93006791d1&f=1&nofb=1" alt="ionic" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="ionic" width="40" height="40" />
     </a>
 </p>
 
