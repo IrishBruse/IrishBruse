@@ -91,7 +91,7 @@
 <h2 align="center">Misc</h2>
 <p align="center">
     <a href="https://www.blender.org/">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
+        <img src="https://download.blender.org/branding/square/blender_icon_512x512.png" alt="blender" width="40" height="40" />
     </a>
     <a href="https://unity.com/">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
