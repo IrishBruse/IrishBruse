@@ -22,7 +22,7 @@
         </td>
         <td align="center">
             <a href="https://ethanconneely.com/home">
-                <img src="https://raw.githubusercontent.com/IrishBruse/IrishBruse.github.io/main/public/favicon.ico" title="ethanconneely.com/home" alt="LDtkMonogame" width="40" height="40" />
+                <img src="https://ethanconneely.com/favicon.ico" title="ethanconneely.com/home" alt="LDtkMonogame" width="40" height="40" />
             </a>
         </td>
     </tr>
