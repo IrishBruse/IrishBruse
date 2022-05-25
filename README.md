@@ -97,9 +97,9 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
     </a>
     <a href="https://ionicframework.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/ionic.png" alt="ionic" width="40" height="40" />
     </a>
     <a href="https://wails.io/docs/about/">
-        <img src="https://raw.githubusercontent.com/wailsapp/wails/master/assets/images/logo_cropped.png" alt="wails" width="40" height="40" />
+        <img src="https://beta.wails.io/img/logo-dark.svg" alt="wails" width="40" height="40" />
     </a>
 </p>
