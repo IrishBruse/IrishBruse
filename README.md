@@ -96,10 +96,4 @@
     <a href="https://unity.com/">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
     </a>
-    <a href="https://ionicframework.com">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/ionic.png" alt="ionic" width="40" height="40" />
-    </a>
-    <a href="https://wails.io/docs/about/">
-        <img src="https://beta.wails.io/img/logo-dark.svg" alt="wails" width="40" height="40" />
-    </a>
 </p>
