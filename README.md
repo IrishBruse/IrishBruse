@@ -58,7 +58,7 @@
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a>
     <a href="https://vuejs.org/">
-        <img src="https://proximitycr.com/wp-content/uploads/2018/11/1200px-Vue.js_Logo_2.svg_.png" alt="vuejs" width="40" height="40" />
+        <img src="https://vuejs.org/logo.svg" alt="vuejs" width="40" height="40" />
     </a>
 </p>
 
