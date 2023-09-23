@@ -1,7 +1,7 @@
 <h1 align="center">Ethan Conneely 👨‍💻</h1>
-<h3 align="center">A software developer from Ireland studying in ATU.</h3>
-
-<h4 align="center">The images below are clickable</h4>
+<div align="center">A software developer from Ireland studying in ATU.</div>
+<br/>
+<div align="center">The images below are clickable</div>
 
 <table align="center">
     <tr>
@@ -39,51 +39,24 @@
 
 <h2 align="center">Web Tech</h2>
 <p align="center">
-    <a href="https://www.w3.org/html/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-    </a>
-    <a href="https://angular.io">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/">
-        <img src="https://vuejs.org/logo.svg" alt="vuejs" width="40" height="40" />
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
+    <img src="https://vuejs.org/logo.svg" alt="vuejs" width="40" height="40" />
 </p>
 
 <h2 align="center">Tools</h2>
 <p align="center">
-    <a href="https://git-scm.com/">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/apps/xamarin">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40" />
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="ionic" width="40" height="40" />
-    </a>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="ionic" width="40" height="40" />
 </p>
 
 <h2 align="center">Misc</h2>
 <p align="center">
-    <a href="https://www.blender.org/">
-        <img src="https://download.blender.org/branding/square/blender_icon_512x512.png" alt="blender" width="40" height="40" />
-    </a>
-    <a href="https://unity.com/">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-    </a>
+    <img src="https://download.blender.org/branding/square/blender_icon_512x512.png" alt="blender" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
 </p>
