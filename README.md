@@ -31,8 +31,7 @@
 <h2 align="center">Languages</h2>
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="50" height="50"/>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50"/>
 </p>
