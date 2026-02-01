@@ -1,12 +1,12 @@
-<h1 align="center">Ethan Conneely 👨‍💻</h1>
-<div align="center">A software developer from Ireland studying in ATU.</div>
+<h1 align="center">Ethan Conneely</h1>
+<div align="center">A software developer from Ireland</div>
 <br/>
 <div align="center">The images below are clickable</div>
 
 <table align="center">
     <tr>
         <th>Current Project</th>
-        <th>ATU Projects</th>
+        <th>Uni Projects</th>
         <th>Portfolio Website</th>
     </tr>
     <tr>
