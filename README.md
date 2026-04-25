@@ -17,6 +17,16 @@ I'm a **Software Engineer** based in Ireland with a professional focus on **mode
 - **Education:** Software Development Graduate  
 - **Interests:** Indie Game Dev, Blender (3D), Minimal UI
 
+## Projects
+
+<div align="center">
+
+| <a href="https://github.com/IrishBruse/LDtkMonogame"><img src="https://raw.githubusercontent.com/IrishBruse/LDtkMonogame/main/Icon.png" width="60" /></a> | <a href="https://github.com/EthanConneely"><img src="https://avatars.githubusercontent.com/u/81045973?s=200&v=4" width="60" /></a> | <a href="https://ethanconneely.com/home"><img src="https://ethanconneely.com/favicon.ico" width="60" /></a> |
+| :---: | :---: | :---: |
+| **[LDtkMonogame](https://github.com/IrishBruse/LDtkMonogame)** | **[University Projects](https://github.com/EthanConneely)** | **[Portfolio](https://ethanconneely.com/home)** |
+
+</div>
+
 
 ## Tech Stack
 
@@ -41,14 +51,3 @@ I'm a **Software Engineer** based in Ireland with a professional focus on **mode
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
----
-
-## Featured Projects
-
-<div align="center">
-
-| <a href="https://github.com/IrishBruse/LDtkMonogame"><img src="https://raw.githubusercontent.com/IrishBruse/LDtkMonogame/main/Icon.png" width="60" /></a> | <a href="https://github.com/EthanConneely"><img src="https://avatars.githubusercontent.com/u/81045973?s=200&v=4" width="60" /></a> | <a href="https://ethanconneely.com/home"><img src="https://ethanconneely.com/favicon.ico" width="60" /></a> |
-| :---: | :---: | :---: |
-| **[LDtkMonogame](https://github.com/IrishBruse/LDtkMonogame)** | **[University Projects](https://github.com/EthanConneely)** | **[Portfolio](https://ethanconneely.com/home)** |
-
-</div>
